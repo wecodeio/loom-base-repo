@@ -17,7 +17,7 @@ public class ConjuntoTests {
 
 	@Test
 	public void unoQueDaError() {
-		throw new Exception("Pucha che!");
+		throw new RuntimeException("Pucha che!");
 	}
 	
 }
