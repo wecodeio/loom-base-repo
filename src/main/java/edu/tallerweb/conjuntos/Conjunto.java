@@ -6,8 +6,8 @@ public class Conjunto<T> {
 		throw new RuntimeException("No implementado aún");
 	}
 
-	public void remover(final T elemento) {
-		throw new RuntimeException("No implementado aún");
+	public void Remover(final T elemento) {
+		      throw new RuntimeException("No implementado aún");
 	}
 
 	public boolean pertenece(final T elemento) {
